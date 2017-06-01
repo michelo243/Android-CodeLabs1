@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">M4gazinus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="username">Votre User name</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="btnvalider">Valider</string>
+    <string name="forgot">Mot de passe oublié</string>
+    <string name="name">Votre nom</string>
+    <string name="re_passord">Réecrire password</string>
+    <string name="signup">Enregistrer</string>
+    <string name="email">Adresse Email</string>
+    <string name="success_message">Ajout User reussi</string>
+    <string name="failed_message">Ajout User Echoué</string>
+
+</resources>
